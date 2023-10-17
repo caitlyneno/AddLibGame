@@ -58,7 +58,7 @@ function tellStory() {
       boy;
     story += "</span> broke his <span class='underline'> " + part;
     story +=
-      "</span> They had to quickly call<span class='underline'> " + person;
+      "</span> They had to quickly call<span class='underline'> " + person + "</span> .";
     story +=
       boy +
       "</span> had to use a <span class='underline'>" +
